@@ -1,0 +1,37 @@
+![Logo UBA](https://github.com/rblanco2023/images/blob/main/logoFIUBA.jpg)
+# NLP (Procesamiento Natural del Lenguaje)
+Trabajos desarrollados durante el cursado de la materia NLP
+
+En este repositorio, se ecuentran compartidos las resoluciones a los trabajos prácticos desafíos de la materia NLP de la especialización en Inteligencia Artifical de la Universidad Nacional de Buenos Aires.
+
+1. [Desafío 1](https://github.com/rblanco2023/NLP/tree/main/Desafio%201)
+    Partiendo desde un corpus arma un vector de términos, los cuales no se deben repetir. Utilizando OHE, calcular frecuencia y TFIDF. Ordenar los documentos del corpus, utilizando la similitud coseno.
+
+2. [Desafío 2](https://github.com/rblanco2023/NLP/tree/main/Desafio%202)
+    Construir un Bot simple con DNN + Spacy, que permita responder una secuencia de preguntas. Se Eligió realizar un Bot que permita atender la taquilla de un cine con 4 películas en cartelera.
+
+3. [Desafío 3](https://github.com/rblanco2023/NLP/tree/main/Desaf%C3%ADo%203)
+    Crear sus propios vectores con Gensim basado en lo visto en clase con otro dataset. Como corpus, se utilizaron los sonetos de William Shakespeare. Finalmente se analizaron relaciones entre palabras determinadas.
+
+4. [Desafío 4](https://github.com/rblanco2023/NLP/tree/main/Desaf%C3%ADo%204)
+    utilizar documentos / corpus para crear embeddings de palabras basado en ese contexto utilizando la layer Embedding de Keras. Se utilizará esos embeddings junto con layers LSTM para predeccir la próxima posible palabra.
+    Para resolver este desafío, se utilizó el corpus de los sonetos de Shakespeare. Se utilizaron LSTM bidireccionales.
+    Se construyeron artificialmente oraciones, disparadas por una secuencia de palabras existentes en los sonetos. 
+
+5. [Desafío 5](https://github.com/rblanco2023/NLP/tree/main/Desaf%C3%ADo%205)
+    Utilizar las críticas de compradores de ropa para que el sistema determine la evaluación del comprador y su crítica (cuantas estrellas le asigna al producto). Para realizar esto, se utilizó Sentiment analysis con Embeddings + LSTM.
+    Dataset utilizado: clothing ecommerce reviews
+
+6. [Desafío 6](https://github.com/rblanco2023/NLP/tree/main/Desaf%C3%ADo%206)
+    Construir un BOT utilizando datos disponibles de convai (JSON) de conversaciones en ingleś. El BOT deberá responder a preguntas del usuario.
+    
+## Alumno
+Ing. Raúl Marcelo Blanco Eliçabe
+
+## Docentes
+Esp. Ing. Hernán Contigiani
+
+Msc. Rodrigo Cardenas Szigety
+
+
+                                                                    Agosto 2022
