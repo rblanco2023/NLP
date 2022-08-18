@@ -33,7 +33,7 @@ Esp. Ing. Hernán Contigiani
 
 Msc. Rodrigo Cardenas Szigety
 
-![NLP](https://github.com/rblanco2023/images/blob/main/NLP.png)
+![NLP](https://github.com/rblanco2023/images/blob/main/NLP-banner.jpg)
 
 
                                                                     Agosto 2022
