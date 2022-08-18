@@ -27,6 +27,7 @@ En este repositorio, se ecuentran compartidos las resoluciones a los trabajos pr
     
 ## Alumno
 Ing. Raúl Marcelo Blanco Eliçabe
+
 blancoelicabe@gmail.com
 
 ## Docentes
