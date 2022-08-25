@@ -30,7 +30,7 @@ Ing. Raúl Marcelo Blanco Eliçabe
 
 Soy Ingeniero electrónico, recibido en Argentina. Tengo un postgrado en energías renovables y trabajo en generación de energía. Actualmente me encuentro finalizando una especialización en Inteligencia Artificial en la UBA. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:blancoelicabe@gmail.com"><img src="(https://github.com/rblanco2023/images/blob/cf61345252ea816fb3e9d97258ea1e8514817dfa/mail.png)" width="40" align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:blancoelicabe@gmail.com"><img src="https://github.com/rblanco2023/images/blob/cf61345252ea816fb3e9d97258ea1e8514817dfa/mail.png" width="40" align="center">
 
 
     
