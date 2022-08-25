@@ -32,14 +32,7 @@ Soy Ingeniero electrónico, recibido en Argentina. Tengo un postgrado en energí
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:blancoelicabe@gmail.com"><img src="https://github.com/rblanco2023/images/blob/cf61345252ea816fb3e9d97258ea1e8514817dfa/mail.png" width="40" align="center"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/raul-blanco-elicabe"><img src="https://github.com/rblanco2023/images/blob/dce1dbcbad1d2bcb60f500171a43b6c8c52bb054/Linkedin.png" width="40" align="center">
 
-
-   
     
-    
-    
-    
-<img src="https://github.com/rblanco2023/images/blob/dce1dbcbad1d2bcb60f500171a43b6c8c52bb054/Linkedin.png" width="80" align="left"> [Linkedin](https://www.linkedin.com/in/raul-blanco-elicabe)
-
 ## Docentes
 Esp. Ing. Hernán Contigiani
 
