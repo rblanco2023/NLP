@@ -14,7 +14,7 @@ En este repositorio, se ecuentran compartidos las resoluciones a los trabajos pr
     Crear sus propios vectores con Gensim basado en lo visto en clase con otro dataset. Como corpus, se utilizaron los sonetos de William Shakespeare. Finalmente se analizaron relaciones entre palabras determinadas.
 
 4. [Desafío 4](https://github.com/rblanco2023/NLP/tree/main/Desaf%C3%ADo%204)
-    utilizar documentos / corpus para crear embeddings de palabras basado en ese contexto utilizando la layer Embedding de Keras. Se utilizará esos embeddings junto con layers LSTM para predeccir la próxima posible palabra.
+    Utilizar documentos / corpus para crear embeddings de palabras basado en ese contexto utilizando la layer Embedding de Keras. Se utilizará esos embeddings junto con layers LSTM para predeccir la próxima posible palabra.
     Para resolver este desafío, se utilizó el corpus de los sonetos de Shakespeare. Se utilizaron LSTM bidireccionales.
     Se construyeron artificialmente oraciones, disparadas por una secuencia de palabras existentes en los sonetos. 
 
@@ -32,11 +32,12 @@ Soy Ingeniero electrónico, recibido en Argentina. Tengo un postgrado en energí
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:blancoelicabe@gmail.com"><img src="https://github.com/rblanco2023/images/blob/cf61345252ea816fb3e9d97258ea1e8514817dfa/mail.png" width="40" align="center"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/raul-blanco-elicabe"><img src="https://github.com/rblanco2023/images/blob/dce1dbcbad1d2bcb60f500171a43b6c8c52bb054/Linkedin.png" width="40" align="center">
 
+
     
 ## Docentes
-Esp. Ing. Hernán Contigiani
+<img src="https://github.com/rblanco2023/images/blob/3bbe688cfbdb51eb77ce0be3fe1336ec67bd0517/master%20jedi.png" width="40" align="center">  Esp. Ing. Hernán Contigiani
 
-Msc. Rodrigo Cardenas Szigety
+<img src="https://github.com/rblanco2023/images/blob/3bbe688cfbdb51eb77ce0be3fe1336ec67bd0517/master%20jedi.png" width="40" align="center">  Msc. Rodrigo Cardenas Szigety
 
 ![NLP](https://github.com/rblanco2023/images/blob/main/NLP-banner.jpg)
 
